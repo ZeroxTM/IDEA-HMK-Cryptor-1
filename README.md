@@ -23,11 +23,11 @@ GUI and Output:
   
   
   
- By Adam Mahameed, Karam Abu Mokh  
+ By Alaa, Adam Mahameed, Karam Abu Mokh  
    
    MIT LICENSE:
    
-   Copyright (c) 2020 Adam Mahameed
+   Copyright (c) 2020 Adam Mahameed, Alaa Grable
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
