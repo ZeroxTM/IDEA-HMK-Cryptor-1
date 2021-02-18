@@ -1,8 +1,8 @@
 import sympy
 
-__author__ = "Adam Mahameed"
+__author__ = "Adam Mahameed", "Alaa Grable"
 __copyright__ = "2020 HMK-IDEA-Cryptor"
-__credits__ = ["Adam Mahameed"]
+__credits__ = ["Adam Mahameed", "Alaa Grable"]
 __license__ = "MIT"
 __email__ = "adam.mah315@gmail.com"
 
@@ -22,13 +22,12 @@ Sub 5 1111 1101 0110 0111 0111 0001
 3. Shift main key = new key
 4. Take 6-len(new key) from shifted key and add to the end of new-sub-key2
 5. repeat from 2
-By Adam Mahameed"""
-__author__ = "Adam Mahameed"
+By Adam Mahameed & Alaa Grable"""
+__author__ = "Adam Mahameed", "Alaa Grable"
 __copyright__ = "Copyright 2020, Text cipher transmission project"
-__credits__ = ["Adam Mahameed"]
+__credits__ = ["Adam Mahameed", "Alaa Grable"]
 __license__ = "GPL"
 __version__ = "1.0.1"
-__maintainer__ = "Adam Mahameed"
 __email__ = "adam.mah315@gmail.com"
 
 KEY_SIZE = 128
