@@ -144,7 +144,7 @@ def get_cipher_block(cipher_text):  # 4 Blocks 16 bit each
 
 if __name__ == "__main__":
     KEY = int('006400c8012c019001f4025802bc0320', 16)
-    plain_text = 'ADAM'
+    plain_text = 'ALAA'
     cryptor = IDEA()  # Initialize cryptor with 128bit key
     cipher_text = cryptor.encrypt(plain_text)
     print(''.join([chr(int(''.join(c), 16)) for c in zip(cipher_text[0::2], cipher_text[1::2])]))
