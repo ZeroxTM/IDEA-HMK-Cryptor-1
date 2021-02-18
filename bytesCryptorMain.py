@@ -1,6 +1,6 @@
-__author__ = "Adam Mahameed"
+__author__ = "Adam Mahameed, Alaa Grable"
 __copyright__ = "2020 HMK-IDEA-Cryptor"
-__credits__ = ["Adam Mahameed"]
+__credits__ = ["Adam Mahameed", "Alaa Grable"]
 __license__ = "MIT"
 __email__ = "adam.mah315@gmail.com"
 
